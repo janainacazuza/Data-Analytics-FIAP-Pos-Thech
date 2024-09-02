@@ -88,7 +88,7 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mai
 
 ## Contato
 
-- **Nome:** Higor Cazuza
-- **Email:** higrcazuza@gmail.com
-- **LinkedIn:** [linkedin.com/in/higor](https://www.linkedin.com/in/higorcazuza)
+- **Nome:** Janaína Cazuza
+- **Email:** janainamartinscazuza@gmail.com
+- **LinkedIn:** [linkedin.com/in/janainacazuza](https://www.linkedin.com/in/janainacazuza/)
 
