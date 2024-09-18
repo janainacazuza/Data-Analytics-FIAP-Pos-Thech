@@ -1,0 +1,24 @@
+# Comentários começam com o caractere '#'
+
+# Ignorar arquivos e diretórios específicos
+arquivo.txt
+diretorio/
+
+# Ignorar todos os arquivos com uma determinada extensão
+*.log
+*.tmp
+
+# Ignorar todos os arquivos em um diretório específico
+pasta/*
+
+# Ignorar arquivos em qualquer diretório com um determinado nome
+**/arquivo.txt
+
+# Ignorar arquivos em qualquer diretório com uma determinada extensão
+**/*.tmp
+
+# Ignorar todos os arquivos em um diretório, mas não seus subdiretórios
+diretorio/**
+
+# Ignorar todos os arquivos em um diretório, incluindo seus subdiretórios
+diretorio/
