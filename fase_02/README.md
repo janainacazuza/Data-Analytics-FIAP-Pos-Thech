@@ -176,10 +176,8 @@ Este projeto contou com a contribuição de:
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
-
-- **Nome:** Higor Cazuza
-- **Email:** higorcazuza@gmail.com
-- **LinkedIn:** [linkedin.com/in/higorcazuza](https://www.linkedin.com/in/higorcazuza)
+https://www.linkedin.com/in/janainacazuza/
+janainamartinscazuza@gmail.com
 
 
 
